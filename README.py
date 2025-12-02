@@ -1,6 +1,4 @@
-CyberTool/
-│
-├── src/
+mdstall src/
 │   ├── main.py
 │   ├── login.py
 │   ├── phone_checker.py
@@ -15,5 +13,5 @@ CyberTool/
 │   └── bigfile.bin   (ملف ثقيل لرفع الحجم)
 │
 ├── requirements.txt
-├── README.md
+├── README.py
 └── install.sh
